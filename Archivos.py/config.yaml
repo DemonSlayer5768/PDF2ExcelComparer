@@ -1,0 +1,5 @@
+base_path: "Phats"
+tesseract_path: "Tesseract-OCR/tesseract.exe"
+tessdata_path: "Tesseract-OCR/tessdata"
+poppler_path: "poppler-24.02.0/Library/bin"
+imagenes_path: "imagenesFront/"
