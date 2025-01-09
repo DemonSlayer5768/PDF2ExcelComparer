@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+instalador/PDF2ExcelComparer_v3_Install.exe filter=lfs diff=lfs merge=lfs -text
